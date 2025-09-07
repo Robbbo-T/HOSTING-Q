@@ -1,0 +1,5 @@
+{
+  "name": "HOSTING-Q Playground",
+  "description": "An interactive web application demonstrating the HOSTING-Q (Hilbert Ontological Space for Topological Idempotency to Green Net Quotient) model for aerospace portfolio management, alongside quantum simulations for resource scheduling and CVaR risk analysis.",
+  "requestFramePermissions": []
+}
